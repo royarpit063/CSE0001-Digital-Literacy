@@ -1,58 +1,66 @@
 <!DOCTYPE html>
 <html lang="en">
-    <h1>🌐 Digital Literacy Project</h1>
+<div class="container">
+    <h1>🌐 Digital Literacy Project Portfolio</h1>
     <p>
-        This repository contains a comprehensive collection of tasks completed as part of a Digital Literacy assignment. 
-        The project focuses on developing essential digital skills required for students to effectively navigate, 
-        communicate, and stay safe in the modern digital world.
+        This project is a comprehensive exploration of digital literacy, designed to help students understand 
+        how to effectively use digital tools, communicate professionally, and stay safe in an increasingly 
+        connected world. Through a series of structured tasks, this project highlights the importance of 
+        responsible digital behavior, cybersecurity awareness, and building a strong professional identity online.
     </p>
-    <div class="section">
-        <h2>📌 Project Overview</h2>
-        <ul>
-            <li>📊 Designing an infographic on digital literacy awareness using Canva</li>
-            <li>💻 Building a digital portfolio using platforms like GitHub, LinkedIn, and Kaggle</li>
-            <li>📧 Writing professional emails and learning proper email etiquette</li>
-            <li>📱 Creating a social media Do’s & Don’ts checklist for responsible usage</li>
-            <li>🔐 Understanding cybersecurity concepts through a phishing case study</li>
-            <li>📝 Developing an interactive Google Form quiz to test digital awareness</li>
-        </ul>
+    <div class="highlight">
+        💡 <b>Core Idea:</b> Digital literacy is not just about using technology, but about using it safely, responsibly, 
+        and effectively in academic and professional environments.
     </div>
-    <div class="section">
-        <h2>🎯 Objective</h2>
-        <p>
-            The objective of this project is to enhance awareness about safe, responsible, and effective use of digital tools. 
-            It also aims to build professional communication skills and encourage students to maintain a strong digital presence.
-        </p>
+    <h2>📌 Project Components</h2>
+    <ul>
+        <li><b>Infographic Design:</b> Created a visually engaging infographic using Canva to spread awareness about digital literacy concepts such as online safety, tools, and communication.</li>     
+        <li><b>Digital Portfolio Development:</b> Built professional profiles on platforms like GitHub and LinkedIn to showcase skills, projects, and achievements.</li>
+        <li><b>Email Etiquette:</b> Learned and applied professional email writing skills through structured communication tasks.</li>
+        <li><b>Social Media Awareness:</b> Developed a checklist highlighting responsible behavior on social media platforms.</li>
+        <li><b>Cybersecurity Case Study:</b> Studied phishing attacks and understood their impact, risks, and prevention methods.</li>
+        <li><b>Interactive Quiz Creation:</b> Designed a Google Form quiz to test awareness of digital literacy among students.</li>
+    </ul>
+    <h2>🎯 Objectives of the Project</h2>
+    <ul>
+        <li>To develop awareness about safe and responsible internet usage</li>
+        <li>To build a professional digital presence and personal brand</li>
+        <li>To improve communication skills through formal emails</li>
+        <li>To understand cybersecurity threats and prevention techniques</li>
+        <li>To encourage critical thinking and responsible behavior online</li>
+    </ul>
+    <h2>🧠 Skills Gained</h2>
+    <ul>
+        <li>Digital communication and professional writing</li>
+        <li>Basic design and content structuring</li>
+        <li>Understanding of cybersecurity concepts</li>
+        <li>Portfolio building and personal branding</li>
+        <li>Critical thinking and online awareness</li>
+    </ul>
+    <h2>📁 Project Structure</h2>
+    <ul>
+        <li><code>task-1-infographic/</code> – Canva infographic and description</li>
+        <li><code>task-3-platforms/</code> – Portfolio profiles and screenshots</li>
+        <li><code>task-4-email-etiquette/</code> – Emails and social media checklist</li>
+        <li><code>task-5-cybersecurity/</code> – Case study and reflection</li>
+    </ul>
+    <h2>📋 Digital Literacy Quiz</h2>
+    <div class="link-box">
+        🚀 <a href="https://forms.gle/kTATqaMEQhFT578X8" target="_blank">
+            Click Here to Take the Quiz
+        </a>
     </div>
-    <div class="section">
-        <h2>📁 Folder Structure</h2>
-        <ul>
-            <li><code>task-1-presentation/</code></li>
-            <li><code>task-2-portfolio/</code></li>
-            <li><code>task-3-platforms/</code></li>
-            <li><code>task-4-email-etiquette/</code></li>
-            <li><code>task-5-cybersecurity/</code></li>
-        </ul>
-    </div>
-    <div class="section">
-        <h2>🚀 Key Learnings</h2>
-        <ul>
-            <li>Understanding digital safety and protecting online privacy</li>
-            <li>Building a professional digital identity and portfolio</li>
-            <li>Improving communication through formal emails</li>
-            <li>Recognizing and preventing cyber threats like phishing</li>
-        </ul>
-    </div>
-    <div class="section">
-        <h2>📋 Digital Literacy Quiz</h2>
-        <div class="link-box">
-            👉 <a href="https://forms.gle/kTATqaMEQhFT578X8" target="_blank">
-                Take the Quiz Here
-            </a>
-        </div>
-    </div>
+    <h2>🔐 Key Takeaways</h2>
+    <ul>
+        <li>Always verify information before trusting or sharing it online</li>
+        <li>Protect personal data using strong passwords and security practices</li>
+        <li>Maintain a professional and respectful online presence</li>
+        <li>Be aware of cyber threats such as phishing and scams</li>
+    </ul>
+    <h2>📫 Contact</h2>
+    <p>📧 royarpit063@gmail.com</p>
     <div class="footer">
-        <p>⭐ Building skills for a smarter and safer digital future</p>
+        <p>⭐ Empowering students with digital knowledge for a safer and smarter future</p>
     </div>
 </div>
 
